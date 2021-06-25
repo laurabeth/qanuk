@@ -9,6 +9,9 @@ const App: FC = () => {
       <h3>Definition of qanuk</h3>
       <ol>
         <li>a flake of crystal or snow</li>
+        <li>
+          a small project created in ts/react to experiment with snowpack setup
+        </li>
       </ol>
     </div>
   );
